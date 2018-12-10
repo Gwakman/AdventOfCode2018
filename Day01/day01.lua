@@ -1,4 +1,4 @@
-function part_one()
+function partOne()
   frequency = 0
   for line in io.lines("Day01/input.txt") do
     frequency = frequency + line
@@ -6,7 +6,7 @@ function part_one()
   return frequency
 end
 
-function part_two()
+function partTwo()
   frequency = 0
   index = 1
   foundFrequencies = {}
