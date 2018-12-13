@@ -25,5 +25,5 @@ function partTwo()
   end
 end
 
-print ("The resulting frequency is " .. part_one())
-print ("The first frequency reached twice is " .. part_two())
+print ("The resulting frequency is " .. partOne())
+print ("The first frequency reached twice is " .. partTwo())
